@@ -1,5 +1,5 @@
 # CurrencyRatesFetcher
-A windows service that fetches currency rates at specified intervals
+A windows service that fetches currency rates for UAH at specified intervals
 
 Before install, ensure that the following files are present in the folder:
 1. CurrencyRatesFetcher.exe
